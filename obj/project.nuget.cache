@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUfWLcOAZ2sCu0jCguu238Z5LnnVM25iB1TzSjGqZrmUj5z4AqR0NK9z26LTPWC4cPtzYi+1L+1Yfs1kBMu05g==",
+  "success": true,
+  "projectFilePath": "/Users/tusharchemate/NET with React/Restore/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/tusharchemate/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tusharchemate/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tusharchemate/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/tusharchemate/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/tusharchemate/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/tusharchemate/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
